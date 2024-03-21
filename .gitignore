@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CarSpecBattle/obj/CarSpecBattle.csproj.nuget.dgspec.json
+*.props
+*.cache
+*.cs
+*.editorconfig
+*.targets
+*.vsidx
+*.wsuo
+/.vs/slnx.sqlite
