@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSpecBattle", "CarSpecBattle\CarSpecBattle.csproj", "{D2FC970E-D660-4FEB-8463-56E5CE80520E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarspecBattle.Web", "CarspecBattle.Web\CarspecBattle.Web.csproj", "{57FF1198-5FD3-4037-B7ED-E9927836D4F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSpecBattle.Data", "CarSpecBattle.Data\CarSpecBattle.Data.csproj", "{410EDE97-09B5-483E-82D9-9053A35A14E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D2FC970E-D660-4FEB-8463-56E5CE80520E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2FC970E-D660-4FEB-8463-56E5CE80520E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2FC970E-D660-4FEB-8463-56E5CE80520E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2FC970E-D660-4FEB-8463-56E5CE80520E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FF1198-5FD3-4037-B7ED-E9927836D4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FF1198-5FD3-4037-B7ED-E9927836D4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FF1198-5FD3-4037-B7ED-E9927836D4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FF1198-5FD3-4037-B7ED-E9927836D4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410EDE97-09B5-483E-82D9-9053A35A14E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410EDE97-09B5-483E-82D9-9053A35A14E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410EDE97-09B5-483E-82D9-9053A35A14E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410EDE97-09B5-483E-82D9-9053A35A14E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DKVERZIM\\.nuget\\packages\\": {}
+    "C:\\Users\\dkbrodbr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DKVERZIM\\Dev\\CarSpecBattle\\CarSpecBattle\\CarSpecBattle.csproj",
-      "projectName": "CarSpecBattle",
-      "projectPath": "C:\\Users\\DKVERZIM\\Dev\\CarSpecBattle\\CarSpecBattle\\CarSpecBattle.csproj",
-      "packagesPath": "C:\\Users\\DKVERZIM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DKVERZIM\\Dev\\CarSpecBattle\\CarSpecBattle\\obj\\",
+      "projectUniqueName": "C:\\Users\\dkbrodbr\\DEV\\CarSpecBattle\\CarSpecBattle\\CarspecBattle.Core.csproj",
+      "projectName": "CarspecBattle.Core",
+      "projectPath": "C:\\Users\\dkbrodbr\\DEV\\CarSpecBattle\\CarSpecBattle\\CarspecBattle.Core.csproj",
+      "packagesPath": "C:\\Users\\dkbrodbr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dkbrodbr\\DEV\\CarSpecBattle\\CarSpecBattle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DKVERZIM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dkbrodbr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
